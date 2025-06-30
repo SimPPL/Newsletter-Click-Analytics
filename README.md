@@ -1,3 +1,4 @@
 # Newsletter-Click-Analytics
 
-![Newsletter-Click-Analytics Dashboard](https://simppl-newsletter-analytics.streamlit.app/)
+Access the deployed dashboard:  
+👉 [https://simppl-newsletter-analytics.streamlit.app](https://simppl-newsletter-analytics.streamlit.app)
