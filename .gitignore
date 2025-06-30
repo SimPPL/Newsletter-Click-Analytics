@@ -1,0 +1,39 @@
+# Streamlit deployment essentials
+.streamlit/secrets.toml  
+.streamlit/config.toml
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.local
+.env.*
+.venv/
+venv/
+click/
+# AWS credentials
+*.aws
+*.credentials
+aws_config.json
+
+# Sensitive data
+*.csv
+*.json
+*.parquet
+*.db
+*.sqlite
+*.pickle
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python artifacts
+*.egg-info/
+build/
+dist/
+*.egg
